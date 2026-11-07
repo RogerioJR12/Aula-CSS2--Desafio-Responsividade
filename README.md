@@ -6,8 +6,8 @@
 
 <h2>  🖥️ Preview do projeto  </h2>
 
-<img src="Link1"/>
-<img src="Link2"/>
+<img src="https://github.com/RogerioJR12/Aula-CSS2--Desafio-Responsividade/blob/master/CSS-2%20Desafio%202/assets/Readme.md%20PC.png?raw=true"/>
+<img src="https://github.com/RogerioJR12/Aula-CSS2--Desafio-Responsividade/blob/master/CSS-2%20Desafio%202/assets/Readme.md%20Mobile.png?raw=true"/>
 
 <h3>  🚀 Tecnologias utilizadas  </h3>
 <p>-HTML</p>
